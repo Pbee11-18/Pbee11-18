@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Precious Obasi</h1>
-<h3 align="center">A skilled and result-driven Copywriter</h3>
+<h3 align="center">A skilled and result-driven Copywriter with over ten years writing experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbee11-18&label=Profile%20views&color=0e75b6&style=flat" alt="pbee11-18" /> </p>
 
